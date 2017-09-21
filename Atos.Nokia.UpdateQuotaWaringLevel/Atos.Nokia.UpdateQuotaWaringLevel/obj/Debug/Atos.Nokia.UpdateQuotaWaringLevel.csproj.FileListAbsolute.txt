@@ -1,0 +1,160 @@
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Atos.Nokia.UpdateQuotaWaringLevel.exe.config
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Atos.Nokia.UpdateQuotaWaringLevel.exe
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Atos.Nokia.UpdateQuotaWaringLevel.pdb
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Edm.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.OData.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.IdentityModel.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Office.Client.Policy.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.ProjectServer.Client.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Newtonsoft.Json.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\OfficeDevPnP.Core.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Net.Http.Formatting.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Spatial.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Web.Http.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Edm.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.OData.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Newtonsoft.Json.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Net.Http.Formatting.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Spatial.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Web.Http.xml
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\obj\Debug\Atos.Nokia.UpdateQuotaWaringLevel.exe
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\obj\Debug\Atos.Nokia.UpdateQuotaWaringLevel.pdb
+E:\Tanmaya\SharePoint Online\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\obj\Debug\Atos.Nokia.UpdateQuotaWaringLevel.csprojResolveAssemblyReference.cache
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Atos.Nokia.UpdateQuotaWaringLevel.exe.config
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\obj\Debug\Atos.Nokia.UpdateQuotaWaringLevel.exe
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\obj\Debug\Atos.Nokia.UpdateQuotaWaringLevel.pdb
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Atos.Nokia.UpdateQuotaWaringLevel.exe
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Atos.Nokia.UpdateQuotaWaringLevel.pdb
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Edm.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.OData.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.IdentityModel.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Office.Client.Policy.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.ProjectServer.Client.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Newtonsoft.Json.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\OfficeDevPnP.Core.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Net.Http.Formatting.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Spatial.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Web.Http.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Edm.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.OData.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Newtonsoft.Json.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Net.Http.Formatting.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Spatial.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\System.Web.Http.xml
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\de\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\es\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\fr\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\it\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ja\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ko\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\ru\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Tanmaya\Azure\Atos.Nokia.UpdateQuotaWaringLevel\Atos.Nokia.UpdateQuotaWaringLevel\bin\Debug\Settings.job
