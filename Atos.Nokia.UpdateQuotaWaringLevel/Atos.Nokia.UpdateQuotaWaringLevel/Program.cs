@@ -24,7 +24,7 @@ namespace Atos.Nokia.UpdateQuotaWaringLevel
             string sLog_FileName = "SiteCollectionStatus" + dtJobStartTime.Hour.ToString() + "_" + dtJobStartTime.Minute.ToString() + "-" + DateTime.Now.Hour.ToString() + "_" + DateTime.Now.Minute.ToString() + ".log";
             string date = Convert.ToString(System.DateTime.Now.ToShortDateString());
             //string LogFile = _strLogPath + "\\" + date + _strFileName;
-            //_strFileName = date + _strFileName;
+            //_strFileName = date + _strFileName; 
             Common.UploadFiles(sLog_FileName);
         }
     }
