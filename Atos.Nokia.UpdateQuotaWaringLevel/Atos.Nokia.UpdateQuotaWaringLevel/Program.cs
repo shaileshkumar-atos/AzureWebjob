@@ -25,7 +25,7 @@ namespace Atos.Nokia.UpdateQuotaWaringLevel
             string date = Convert.ToString(System.DateTime.Now.ToShortDateString());
             //string LogFile = _strLogPath + "\\" + date + _strFileName;
             //_strFileName = date + _strFileName; 
-            Common.UploadFiles(sLog_FileName);
+            Common.UploadFiles(sLog_FileName); 
         }
     }
 }
