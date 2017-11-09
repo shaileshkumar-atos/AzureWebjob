@@ -32,7 +32,7 @@ namespace Atos.Nokia.UpdateQuotaWaringLevel
                         sw.Write("\r\nLog Entry : ");
                         sw.WriteLine("{0} {1}", DateTime.Now.ToLongTimeString(),
                             DateTime.Now.ToLongDateString());
-                        sw.WriteLine("Message  :{0}", message);
+                        sw.WriteLine("Log Message  :{0}", message);
                         sw.WriteLine("-------------------------------");
                     }
                 }
