@@ -92,7 +92,7 @@ namespace Atos.Nokia.UpdateQuotaWaringLevel
                     }
                     string LogFile = _strLogPath + "\\" + _strFileName;
                     
-                    //UploadFiles(LogFile, _strFileName);
+                    //UploadFiles(LogFile, _strFileName); 
                 }
             }
             catch (Exception ex)
